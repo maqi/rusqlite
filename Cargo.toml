@@ -38,6 +38,8 @@ serde_json = { version = "0.9", optional = true }
 tempdir = "0.3.4"
 lazy_static = "0.2"
 regex = "0.2"
+rand = "~0.3.14"
+maidsafe_utilities = "~0.11.0"
 
 [dependencies.libsqlite3-sys]
 path = "libsqlite3-sys"
